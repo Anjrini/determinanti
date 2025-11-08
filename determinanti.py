@@ -1,3 +1,5 @@
+# Mustafa Anjrini on 24.10.2025
+
 import numpy as np
 import math
 
@@ -73,9 +75,5 @@ def determinanti(a):
                 a_=a_[1:,:]
         return(r)
 
-#let's do an example of an array a as belw
-a=np.array([[-1,2,9.1,6,-2,1,-2,1],[2,42.4,6,-7,3.7,2,1,1],[3,7,9,62,-2,1,1,-1],[-3,5,-7,-29,-3,-1,-1,2],[4,4,5,9,-1,22,2,1],[1,-1,21,-1,1,-1,1,-1],[-1,1,-11,1,-1,1,-1,1],[1,1,1,-1,-1,-1,-1,1]])     
 
 determinanti(a)
-
-
