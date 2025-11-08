@@ -1,4 +1,4 @@
-## determinanti
+## Determinanti
 
 This script is a self-implemented code to calculate the determinant of a matrix using the theoratical way and by not using a recursive function. Therefore, by increasing the dimensions of the matrix, the time for the calculation will increase exponentially. Therefore, it is a neither fast nor efficient method but it is beautiful just a link between theory and practice in a way.
 
