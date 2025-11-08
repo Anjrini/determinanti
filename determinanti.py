@@ -75,5 +75,3 @@ def determinanti(a):
                 a_=a_[1:,:]
         return(r)
 
-
-determinanti(a)
