@@ -5,7 +5,7 @@ This script is a self-implemented code to calculate the determinant of a matrix 
 ## Libraries:
 
 ```
-only Numpy and math libraries are needed.
+only Numpy and Math libraries are needed.
 ```
 
 ## The Funtion
